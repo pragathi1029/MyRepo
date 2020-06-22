@@ -1,0 +1,50 @@
+							HTML
+HTML headings are defined with the <h1> to <h6> tags.
+HTML paragraphs are defined with the <p> tag.
+HTML links are defined with the <a> tag.
+HTML images are defined with the <img> tag.
+HTML buttons are defined with the <button> tag.
+HTML lists are defined with the <ul> (unordered/bullet list) or the <ol> (ordered/numbered list) tag, followed by <li> tags (list items).
+The language is declared with the lang attribute. Declaring a language is important for accessibility applications (screen readers) and search engines.
+disabled	Specifies that an input element should be disabled
+id	Specifies a unique id for an element
+style	Specifies an inline CSS style for an element
+title	Specifies extra information about an element (displayed as a tool tip)
+The <hr> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.The <hr> element is used to separate content (or define a change) in an HTML page.
+The HTML <pre> element defines preformatted text. The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+The CSS background-color property defines the background color for an HTML element.
+The CSS color property defines the text color for an HTML element.
+The CSS font-family property defines the font to be used for an HTML element.
+The CSS font-size property defines the text size for an HTML element.
+The CSS text-align property defines the horizontal text alignment for an HTML element
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+The HTML <q> element defines a short quotation.
+The HTML <blockquote> element defines a section that is quoted from another source.Browsers usually indent <blockquote> elements.
+The HTML <abbr> element defines an abbreviation or an acronym.
+The HTML <address> element defines contact information (author/owner) of a document or an article.The <address> element is usually displayed in italic. Most browsers will add a line break before and after the element.
+The HTML <cite> element defines the title of a work.Browsers usually display <cite> elements in italic.
+The HTML <bdo> element defines bi-directional override.The <bdo> element is used to override the current text direction.
+The CSS border property defines a border around an HTML element.
+The CSS padding property defines a padding (space) between the text and the border.
+The CSS margin property defines a margin (space) outside the border.
+The target attribute specifies where to open the linked document.
+The target attribute can have one of the following values:
+_blank - Opens the linked document in a new window or tab
+_self - Opens the linked document in the same window/tab as it was clicked (this is default)
+_parent - Opens the linked document in the parent frame
+_top - Opens the linked document in the full body of the window
+The <map> tag defines an image-map. An image-map is an image with clickable areas.
+   <map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
